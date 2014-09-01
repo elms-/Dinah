@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isign_ra_virama.alt2" format="1">
+  <advance width="258"/>
+  <outline>
+    <contour>
+      <point x="1193" y="646" type="line"/>
+      <point x="1195" y="643"/>
+      <point x="1196" y="642"/>
+      <point x="1194" y="646" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-31" y="646" type="line"/>
+      <point x="94" y="646" type="line"/>
+      <point x="92" y="650" type="line"/>
+      <point x="86" y="672"/>
+      <point x="83" y="692"/>
+      <point x="83" y="710" type="curve" smooth="yes"/>
+      <point x="81" y="829"/>
+      <point x="206" y="880"/>
+      <point x="365" y="880" type="curve" smooth="yes"/>
+      <point x="534" y="880"/>
+      <point x="919" y="844"/>
+      <point x="1106" y="731" type="curve"/>
+      <point x="1106" y="750"/>
+      <point x="1112" y="776"/>
+      <point x="1126" y="798" type="curve" smooth="yes"/>
+      <point x="1151" y="834"/>
+      <point x="1201" y="882"/>
+      <point x="1281" y="879" type="curve"/>
+      <point x="1273" y="810" type="line"/>
+      <point x="1202" y="810"/>
+      <point x="1169" y="787"/>
+      <point x="1161" y="756" type="curve" smooth="yes"/>
+      <point x="1150" y="717"/>
+      <point x="1167" y="691"/>
+      <point x="1182" y="666" type="curve"/>
+      <point x="1193" y="646" type="line"/>
+      <point x="1145" y="646" type="line"/>
+      <point x="1140" y="646"/>
+      <point x="1134" y="652"/>
+      <point x="1128" y="661" type="curve"/>
+      <point x="1129" y="661" type="line"/>
+      <point x="979" y="790"/>
+      <point x="546" y="817"/>
+      <point x="376" y="817" type="curve" smooth="yes"/>
+      <point x="257" y="817"/>
+      <point x="166" y="779"/>
+      <point x="166" y="677" type="curve" smooth="yes"/>
+      <point x="166" y="668"/>
+      <point x="167" y="655"/>
+      <point x="169" y="646" type="curve"/>
+      <point x="261" y="646" type="line"/>
+      <point x="285" y="577" type="line"/>
+      <point x="173" y="577" type="line"/>
+      <point x="173" y="-8" type="line"/>
+      <point x="96" y="13" type="line"/>
+      <point x="92" y="577" type="line"/>
+      <point x="-5" y="577" type="line"/>
+    </contour>
+  </outline>
+</glyph>

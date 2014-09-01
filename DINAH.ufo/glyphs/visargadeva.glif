@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="visargadeva" format="1">
+  <advance width="150"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="15" y="434" type="curve" smooth="yes"/>
+      <point x="15" y="404"/>
+      <point x="42" y="380"/>
+      <point x="75" y="380" type="curve" smooth="yes"/>
+      <point x="107" y="380"/>
+      <point x="133" y="404"/>
+      <point x="133" y="434" type="curve" smooth="yes"/>
+      <point x="133" y="465"/>
+      <point x="107" y="487"/>
+      <point x="75" y="487" type="curve" smooth="yes"/>
+      <point x="42" y="487"/>
+      <point x="15" y="465"/>
+    </contour>
+    <contour>
+      <point x="15" y="104" type="curve" smooth="yes"/>
+      <point x="15" y="75"/>
+      <point x="42" y="51"/>
+      <point x="75" y="51" type="curve" smooth="yes"/>
+      <point x="107" y="51"/>
+      <point x="133" y="75"/>
+      <point x="133" y="104" type="curve" smooth="yes"/>
+      <point x="133" y="134"/>
+      <point x="107" y="158"/>
+      <point x="75" y="158" type="curve" smooth="yes"/>
+      <point x="42" y="158"/>
+      <point x="15" y="134"/>
+    </contour>
+  </outline>
+</glyph>

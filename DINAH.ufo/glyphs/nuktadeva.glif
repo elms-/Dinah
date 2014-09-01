@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nuktadeva" format="1">
+  <advance width="0"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="-48" y="-51" type="curve" smooth="yes"/>
+      <point x="-48" y="-20"/>
+      <point x="-21" y="2"/>
+      <point x="10" y="2" type="curve" smooth="yes"/>
+      <point x="43" y="2"/>
+      <point x="70" y="-20"/>
+      <point x="70" y="-51" type="curve" smooth="yes"/>
+      <point x="70" y="-81"/>
+      <point x="43" y="-104"/>
+      <point x="10" y="-104" type="curve" smooth="yes"/>
+      <point x="-21" y="-104"/>
+      <point x="-48" y="-81"/>
+    </contour>
+  </outline>
+</glyph>

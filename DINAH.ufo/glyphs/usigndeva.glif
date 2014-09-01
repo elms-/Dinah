@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="usigndeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="-10" type="line"/>
+      <point x="29" y="6"/>
+      <point x="60" y="12"/>
+      <point x="90" y="12" type="curve" smooth="yes"/>
+      <point x="188" y="12"/>
+      <point x="270" y="-65"/>
+      <point x="270" y="-152" type="curve" smooth="yes"/>
+      <point x="270" y="-252"/>
+      <point x="137" y="-327"/>
+      <point x="35" y="-327" type="curve" smooth="yes"/>
+      <point x="-80" y="-327"/>
+      <point x="-144" y="-231"/>
+      <point x="-166" y="-125" type="curve"/>
+      <point x="-121" y="-70" type="line"/>
+      <point x="-77" y="-177"/>
+      <point x="-23" y="-270"/>
+      <point x="74" y="-270" type="curve" smooth="yes"/>
+      <point x="160" y="-270"/>
+      <point x="197" y="-236"/>
+      <point x="197" y="-179" type="curve" smooth="yes"/>
+      <point x="197" y="-128"/>
+      <point x="163" y="-55"/>
+      <point x="84" y="-55" type="curve" smooth="yes"/>
+      <point x="66" y="-55"/>
+      <point x="42" y="-60"/>
+      <point x="14" y="-68" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132" y="30" type="move" name="_DVAnchor0"/>
+    </contour>
+  </outline>
+</glyph>
