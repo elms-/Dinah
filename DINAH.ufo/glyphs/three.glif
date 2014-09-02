@@ -26,30 +26,31 @@
       <point x="144" y="67" type="line"/>
       <point x="189" y="49"/>
       <point x="243" y="43"/>
-      <point x="269" y="43" type="curve"/>
-      <point x="312" y="13"/>
-      <point x="343" y="-36"/>
-      <point x="343" y="-109" type="curve" smooth="yes"/>
-      <point x="343" y="-144"/>
-      <point x="297" y="-293"/>
-      <point x="174" y="-293" type="curve" smooth="yes"/>
-      <point x="126" y="-293"/>
-      <point x="114" y="-245"/>
-      <point x="114" y="-203" type="curve"/>
-      <point x="93" y="-193"/>
-      <point x="30" y="-191"/>
-      <point x="24" y="-191" type="curve"/>
-      <point x="20" y="-208"/>
-      <point x="18" y="-222"/>
-      <point x="18" y="-235" type="curve" smooth="yes"/>
-      <point x="18" y="-340"/>
-      <point x="140" y="-343"/>
-      <point x="237" y="-343" type="curve" smooth="yes"/>
-      <point x="336" y="-343"/>
-      <point x="457" y="-236"/>
-      <point x="457" y="-140" type="curve" smooth="yes"/>
-      <point x="457" y="-78"/>
-      <point x="403" y="4"/>
+      <point x="269" y="43" type="curve" smooth="yes"/>
+      <point x="272" y="43" type="line"/>
+      <point x="313" y="21"/>
+      <point x="343" y="-8"/>
+      <point x="343" y="-79" type="curve" smooth="yes"/>
+      <point x="343" y="-114"/>
+      <point x="297" y="-263"/>
+      <point x="174" y="-263" type="curve" smooth="yes"/>
+      <point x="126" y="-263"/>
+      <point x="114" y="-215"/>
+      <point x="114" y="-173" type="curve"/>
+      <point x="93" y="-163"/>
+      <point x="30" y="-161"/>
+      <point x="24" y="-161" type="curve"/>
+      <point x="20" y="-178"/>
+      <point x="18" y="-192"/>
+      <point x="18" y="-205" type="curve" smooth="yes"/>
+      <point x="18" y="-310"/>
+      <point x="140" y="-313"/>
+      <point x="237" y="-313" type="curve" smooth="yes"/>
+      <point x="336" y="-313"/>
+      <point x="457" y="-206"/>
+      <point x="457" y="-110" type="curve" smooth="yes"/>
+      <point x="457" y="-48"/>
+      <point x="403" y="10"/>
       <point x="327" y="62" type="curve"/>
       <point x="372" y="92"/>
       <point x="391" y="149"/>

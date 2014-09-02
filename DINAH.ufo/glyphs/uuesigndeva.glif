@@ -9,10 +9,11 @@
       <point x="-197" y="-26" type="curve"/>
       <point x="-120" y="-52" type="line"/>
       <point x="-128" y="-116"/>
-      <point x="-182" y="-179"/>
+      <point x="-182" y="-180"/>
       <point x="-292" y="-183" type="curve"/>
-      <point x="-390" y="-185"/>
-      <point x="-453" y="-148"/>
+      <point x="-303" y="-183" type="line"/>
+      <point x="-395" y="-183"/>
+      <point x="-454" y="-145"/>
       <point x="-471" y="-56" type="curve"/>
       <point x="-394" y="-25" type="line"/>
       <point x="-386" y="-105"/>

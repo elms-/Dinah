@@ -24,8 +24,6 @@
       <point x="233" y="399"/>
       <point x="218" y="397"/>
       <point x="203" y="394" type="curve"/>
-      <point x="206" y="394" type="line"/>
-      <point x="315" y="263" type="line"/>
       <point x="341" y="232" type="line"/>
     </contour>
     <contour>
@@ -42,7 +40,6 @@
       <point x="255" y="203"/>
       <point x="269" y="205"/>
       <point x="283" y="208" type="curve"/>
-      <point x="280" y="208" type="line"/>
       <point x="139" y="369" type="line"/>
       <point x="110" y="351"/>
       <point x="93" y="325"/>
