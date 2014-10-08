@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva_viramadeva_ttadeva" format="1">
+  <advance width="444"/>
+  <outline>
+    <contour>
+      <point x="36" y="-118" type="curve" smooth="yes"/>
+      <point x="35" y="-111"/>
+      <point x="35" y="-104"/>
+      <point x="35" y="-97" type="curve" smooth="yes"/>
+      <point x="35" y="39"/>
+      <point x="140" y="88"/>
+      <point x="252" y="88" type="curve"/>
+      <point x="280" y="88" type="line"/>
+      <point x="280" y="108"/>
+      <point x="279" y="116"/>
+      <point x="279" y="136" type="curve"/>
+      <point x="252" y="130"/>
+      <point x="226" y="130"/>
+      <point x="208" y="130" type="curve" smooth="yes"/>
+      <point x="108" y="132"/>
+      <point x="42" y="239"/>
+      <point x="37" y="312" type="curve"/>
+      <point x="37" y="318"/>
+      <point x="36" y="323"/>
+      <point x="36" y="329" type="curve" smooth="yes"/>
+      <point x="36" y="464"/>
+      <point x="140" y="518"/>
+      <point x="252" y="518" type="curve"/>
+      <point x="280" y="518" type="line"/>
+      <point x="280" y="543"/>
+      <point x="278" y="552"/>
+      <point x="278" y="577" type="curve"/>
+      <point x="-9" y="577" type="line"/>
+      <point x="-37" y="646" type="line"/>
+      <point x="465" y="646" type="line"/>
+      <point x="490" y="577" type="line"/>
+      <point x="356" y="577" type="line"/>
+      <point x="356" y="445" type="line"/>
+      <point x="312" y="452"/>
+      <point x="273" y="454"/>
+      <point x="245" y="454" type="curve" smooth="yes"/>
+      <point x="140" y="454"/>
+      <point x="103" y="412"/>
+      <point x="103" y="331" type="curve"/>
+      <point x="103" y="315" type="line"/>
+      <point x="112" y="258"/>
+      <point x="163" y="202"/>
+      <point x="223" y="200" type="curve"/>
+      <point x="233" y="200" type="line"/>
+      <point x="272" y="200"/>
+      <point x="332" y="211"/>
+      <point x="404" y="249" type="curve"/>
+      <point x="394" y="191" type="line"/>
+      <point x="380" y="180"/>
+      <point x="367" y="171"/>
+      <point x="352" y="163" type="curve"/>
+      <point x="352" y="16" type="line"/>
+      <point x="307" y="22"/>
+      <point x="273" y="24"/>
+      <point x="245" y="24" type="curve" smooth="yes"/>
+      <point x="140" y="24"/>
+      <point x="103" y="-18"/>
+      <point x="103" y="-99" type="curve"/>
+      <point x="103" y="-115" type="line"/>
+      <point x="112" y="-172"/>
+      <point x="163" y="-228"/>
+      <point x="223" y="-230" type="curve"/>
+      <point x="233" y="-230" type="line"/>
+      <point x="272" y="-230"/>
+      <point x="332" y="-219"/>
+      <point x="404" y="-181" type="curve"/>
+      <point x="394" y="-239" type="line"/>
+      <point x="328" y="-293"/>
+      <point x="250" y="-300"/>
+      <point x="208" y="-300" type="curve"/>
+      <point x="107" y="-298"/>
+      <point x="41" y="-191"/>
+    </contour>
+    <contour>
+      <point x="246" y="-255" type="move" name="DVAnchor0"/>
+    </contour>
+  </outline>
+</glyph>

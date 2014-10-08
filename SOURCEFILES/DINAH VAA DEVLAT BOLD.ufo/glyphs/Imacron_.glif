@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="292"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="46" y="35"/>
+      <point x="51" y="412"/>
+      <point x="51" y="462" type="curve" smooth="yes"/>
+      <point x="51" y="505"/>
+      <point x="51" y="553"/>
+      <point x="44" y="566" type="curve"/>
+      <point x="107" y="649" type="line"/>
+      <point x="169" y="649"/>
+      <point x="177" y="526"/>
+      <point x="177" y="374" type="curve" smooth="yes"/>
+      <point x="177" y="143" type="line" smooth="yes"/>
+      <point x="177" y="94"/>
+      <point x="177" y="43"/>
+      <point x="178" y="2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="232" y="674" type="line"/>
+      <point x="200" y="674"/>
+      <point x="137" y="675"/>
+      <point x="104" y="677" type="curve"/>
+      <point x="87" y="677"/>
+      <point x="61" y="675"/>
+      <point x="37" y="659" type="curve"/>
+      <point x="-16" y="723" type="line"/>
+      <point x="-16" y="730"/>
+      <point x="12" y="731"/>
+      <point x="67" y="731" type="curve" smooth="yes"/>
+      <point x="98" y="731"/>
+      <point x="163" y="729"/>
+      <point x="233" y="729" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

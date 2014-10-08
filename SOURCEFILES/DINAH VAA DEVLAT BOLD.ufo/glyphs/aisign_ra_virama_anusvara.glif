@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aisign_ra_virama_anusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-452" y="726" type="line"/>
+      <point x="-407" y="757"/>
+      <point x="-363" y="772"/>
+      <point x="-321" y="772" type="curve" smooth="yes"/>
+      <point x="-294" y="772"/>
+      <point x="-272" y="768"/>
+      <point x="-249" y="759" type="curve"/>
+      <point x="-278" y="790"/>
+      <point x="-311" y="811"/>
+      <point x="-345" y="811" type="curve" smooth="yes"/>
+      <point x="-348" y="811"/>
+      <point x="-382" y="811"/>
+      <point x="-443" y="789" type="curve"/>
+      <point x="-463" y="869" type="line"/>
+      <point x="-463" y="869"/>
+      <point x="-398" y="892"/>
+      <point x="-350" y="892" type="curve" smooth="yes"/>
+      <point x="-338" y="892" type="line"/>
+      <point x="-270" y="884"/>
+      <point x="-217" y="855"/>
+      <point x="-181" y="818" type="curve"/>
+      <point x="-154" y="846"/>
+      <point x="-109" y="872"/>
+      <point x="-40" y="872" type="curve" smooth="yes"/>
+      <point x="-11" y="872" type="line"/>
+      <point x="-19" y="794" type="line"/>
+      <point x="-90" y="794"/>
+      <point x="-121" y="775"/>
+      <point x="-130" y="748" type="curve"/>
+      <point x="-110" y="706"/>
+      <point x="-99" y="666"/>
+      <point x="-95" y="633" type="curve"/>
+      <point x="-200" y="633" type="line"/>
+      <point x="-233" y="674"/>
+      <point x="-268" y="699"/>
+      <point x="-301" y="699" type="curve" smooth="yes"/>
+      <point x="-323" y="699"/>
+      <point x="-358" y="683"/>
+      <point x="-410" y="645" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-79" y="706" type="curve" smooth="yes"/>
+      <point x="-79" y="678"/>
+      <point x="-57" y="655"/>
+      <point x="-33" y="655" type="curve" smooth="yes"/>
+      <point x="-5" y="655"/>
+      <point x="16" y="678"/>
+      <point x="16" y="706" type="curve" smooth="yes"/>
+      <point x="16" y="735"/>
+      <point x="-5" y="760"/>
+      <point x="-33" y="760" type="curve" smooth="yes"/>
+      <point x="-57" y="760"/>
+      <point x="-79" y="735"/>
+    </contour>
+    <contour>
+      <point x="-162" y="652" type="move" name="_DVAnchor3"/>
+    </contour>
+  </outline>
+</glyph>
