@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oesigndeva" format="1">
+  <advance width="0"/>
+  <unicode hex="093A"/>
+  <outline>
+    <contour>
+      <point x="-83" y="813" type="line"/>
+      <point x="-83" y="645" type="line"/>
+      <point x="-162" y="645" type="line"/>
+      <point x="-162" y="831" type="line"/>
+    </contour>
+    <contour>
+      <point x="-114" y="645" type="move" name="_DVAnchor3"/>
+    </contour>
+  </outline>
+</glyph>

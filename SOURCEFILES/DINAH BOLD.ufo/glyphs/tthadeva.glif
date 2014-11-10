@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tthadeva" format="1">
+  <advance width="695"/>
+  <unicode hex="0920"/>
+  <outline>
+    <contour>
+      <point x="651" y="200" type="line"/>
+      <point x="642" y="60"/>
+      <point x="503" y="-10"/>
+      <point x="360" y="-10" type="curve" smooth="yes"/>
+      <point x="211" y="-10"/>
+      <point x="69" y="77"/>
+      <point x="69" y="228" type="curve" smooth="yes"/>
+      <point x="69" y="355"/>
+      <point x="152" y="419"/>
+      <point x="303" y="430" type="curve"/>
+      <point x="303" y="453"/>
+      <point x="302" y="476"/>
+      <point x="302" y="498" type="curve" smooth="yes"/>
+      <point x="302" y="564" type="line"/>
+      <point x="-2" y="564" type="line"/>
+      <point x="-30" y="643" type="line"/>
+      <point x="720" y="643" type="line"/>
+      <point x="743" y="566" type="line"/>
+      <point x="417" y="566" type="line"/>
+      <point x="417" y="431" type="line"/>
+      <point x="586" y="417"/>
+      <point x="652" y="332"/>
+      <point x="652" y="218" type="curve" smooth="yes"/>
+      <point x="652" y="215"/>
+      <point x="651" y="212"/>
+      <point x="651" y="209" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="344" y="351" type="line" smooth="yes"/>
+      <point x="252" y="351"/>
+      <point x="170" y="332"/>
+      <point x="170" y="225" type="curve" smooth="yes"/>
+      <point x="170" y="132"/>
+      <point x="267" y="81"/>
+      <point x="360" y="81" type="curve" smooth="yes"/>
+      <point x="446" y="81"/>
+      <point x="534" y="131"/>
+      <point x="549" y="205" type="curve"/>
+      <point x="547" y="329"/>
+      <point x="467" y="348"/>
+      <point x="360" y="351" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="358" y="35" type="move" name="DVAnchor0"/>
+    </contour>
+  </outline>
+</glyph>

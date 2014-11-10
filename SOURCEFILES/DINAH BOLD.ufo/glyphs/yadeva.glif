@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yadeva" format="1">
+  <advance width="593"/>
+  <unicode hex="092F"/>
+  <outline>
+    <contour>
+      <point x="-31" y="643" type="line"/>
+      <point x="583" y="643" type="line"/>
+      <point x="608" y="566" type="line"/>
+      <point x="500" y="566" type="line"/>
+      <point x="498" y="390"/>
+      <point x="498" y="203"/>
+      <point x="498" y="125" type="curve" smooth="yes"/>
+      <point x="498" y="-15" type="line"/>
+      <point x="385" y="17" type="line"/>
+      <point x="385" y="201" type="line"/>
+      <point x="349" y="185"/>
+      <point x="304" y="177"/>
+      <point x="265" y="177" type="curve" smooth="yes"/>
+      <point x="138" y="177"/>
+      <point x="68" y="274"/>
+      <point x="30" y="361" type="curve"/>
+      <point x="85" y="394"/>
+      <point x="136" y="454"/>
+      <point x="136" y="532" type="curve" smooth="yes"/>
+      <point x="136" y="551"/>
+      <point x="133" y="561"/>
+      <point x="129" y="566" type="curve"/>
+      <point x="0" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="521" type="curve" smooth="yes"/>
+      <point x="259" y="462"/>
+      <point x="222" y="395"/>
+      <point x="148" y="333" type="curve"/>
+      <point x="180" y="278"/>
+      <point x="231" y="253"/>
+      <point x="281" y="253" type="curve" smooth="yes"/>
+      <point x="321" y="253"/>
+      <point x="361" y="271"/>
+      <point x="384" y="303" type="curve"/>
+      <point x="384" y="395"/>
+      <point x="385" y="478"/>
+      <point x="385" y="566" type="curve"/>
+      <point x="248" y="566" type="line"/>
+      <point x="254" y="550"/>
+      <point x="259" y="534"/>
+    </contour>
+    <contour>
+      <point x="450" y="651" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="449" y="35" type="move" name="DVAnchor0"/>
+    </contour>
+  </outline>
+</glyph>

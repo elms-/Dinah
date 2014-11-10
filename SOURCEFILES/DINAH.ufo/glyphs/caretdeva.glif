@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretdeva" format="1">
+  <advance width="488"/>
+  <unicode hex="A8FA"/>
+  <outline>
+    <contour>
+      <point x="227" y="653" type="curve" smooth="yes"/>
+      <point x="227" y="653"/>
+      <point x="180" y="694"/>
+      <point x="44" y="851" type="curve"/>
+      <point x="99" y="900" type="line"/>
+      <point x="123" y="865"/>
+      <point x="212" y="745"/>
+      <point x="243" y="728" type="curve"/>
+      <point x="274" y="745"/>
+      <point x="364" y="865"/>
+      <point x="388" y="900" type="curve"/>
+      <point x="443" y="851" type="line"/>
+      <point x="334" y="726"/>
+      <point x="263" y="651"/>
+      <point x="258" y="653" type="curve"/>
+      <point x="252" y="651"/>
+      <point x="227" y="653"/>
+    </contour>
+  </outline>
+</glyph>
