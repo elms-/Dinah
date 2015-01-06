@@ -4,55 +4,91 @@
   <outline>
     <contour>
       <point x="713" y="643" type="line"/>
-      <point x="595" y="792"/>
-      <point x="451" y="799"/>
-      <point x="380" y="799" type="curve" smooth="yes"/>
-      <point x="293" y="799"/>
-      <point x="203" y="764"/>
-      <point x="203" y="673" type="curve" smooth="yes"/>
-      <point x="203" y="662"/>
-      <point x="204" y="651"/>
-      <point x="206" y="643" type="curve"/>
+      <point x="669" y="699"/>
+      <point x="574" y="762"/>
+      <point x="484" y="792"/>
+      <point x="407" y="799"/>
+      <point x="380" y="799" type="qcurve"/>
+      <point x="347" y="799"/>
+      <point x="284" y="785"/>
+      <point x="234" y="755"/>
+      <point x="203" y="707"/>
+      <point x="203" y="673" type="qcurve"/>
+      <point x="203" y="655"/>
+      <point x="206" y="643" type="qcurve"/>
       <point x="296" y="643" type="line"/>
       <point x="323" y="566" type="line"/>
       <point x="212" y="566" type="line"/>
       <point x="212" y="-15" type="line"/>
       <point x="97" y="17" type="line"/>
-      <point x="97" y="566" type="line"/>
+      <point x="97" y="566" type="line" name="hr01"/>
       <point x="0" y="566" type="line"/>
       <point x="-28" y="643" type="line"/>
       <point x="94" y="643" type="line"/>
-      <point x="87" y="663"/>
-      <point x="82" y="685"/>
-      <point x="82" y="701" type="curve" smooth="yes"/>
-      <point x="82" y="835"/>
-      <point x="256" y="872"/>
-      <point x="364" y="872" type="curve" smooth="yes"/>
-      <point x="425" y="872"/>
-      <point x="522" y="867"/>
-      <point x="649" y="796" type="curve"/>
-      <point x="657" y="860"/>
-      <point x="731" y="887"/>
-      <point x="784" y="887" type="curve" smooth="yes"/>
-      <point x="849" y="887"/>
-      <point x="903" y="849"/>
-      <point x="903" y="807" type="curve" smooth="yes"/>
-      <point x="903" y="802"/>
-      <point x="903" y="798"/>
-      <point x="901" y="788" type="curve"/>
+      <point x="89" y="658"/>
+      <point x="82" y="689"/>
+      <point x="82" y="701" type="qcurve"/>
+      <point x="82" y="751"/>
+      <point x="140" y="817"/>
+      <point x="225" y="856"/>
+      <point x="323" y="872"/>
+      <point x="364" y="872" type="qcurve" name="hr02"/>
+      <point x="387" y="872"/>
+      <point x="446" y="868"/>
+      <point x="518" y="853"/>
+      <point x="601" y="823"/>
+      <point x="649" y="796" type="qcurve"/>
+      <point x="652" y="820"/>
+      <point x="680" y="854"/>
+      <point x="719" y="877"/>
+      <point x="764" y="887"/>
+      <point x="784" y="887" type="qcurve"/>
+      <point x="808" y="887"/>
+      <point x="852" y="874"/>
+      <point x="884" y="852"/>
+      <point x="903" y="823"/>
+      <point x="903" y="807" type="qcurve"/>
+      <point x="903" y="803"/>
+      <point x="903" y="796"/>
+      <point x="901" y="788" type="qcurve"/>
       <point x="786" y="788" type="line"/>
-      <point x="787" y="794"/>
-      <point x="789" y="808"/>
-      <point x="789" y="821" type="curve" smooth="yes"/>
-      <point x="789" y="833"/>
-      <point x="787" y="842"/>
-      <point x="781" y="842" type="curve" smooth="yes"/>
-      <point x="765" y="842"/>
-      <point x="765" y="804"/>
-      <point x="765" y="794" type="curve" smooth="yes"/>
-      <point x="765" y="749"/>
-      <point x="792" y="685"/>
-      <point x="822" y="643" type="curve"/>
+      <point x="787" y="793"/>
+      <point x="789" y="811"/>
+      <point x="789" y="821" type="qcurve"/>
+      <point x="789" y="830"/>
+      <point x="786" y="842"/>
+      <point x="781" y="842" type="qcurve"/>
+      <point x="775" y="842"/>
+      <point x="768" y="830"/>
+      <point x="765" y="814"/>
+      <point x="765" y="798"/>
+      <point x="765" y="794" type="qcurve"/>
+      <point x="765" y="777"/>
+      <point x="774" y="738"/>
+      <point x="790" y="697"/>
+      <point x="811" y="659"/>
+      <point x="822" y="643" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="6" width="-21" />
+      <hstem pos="566" width="77" />
+      <hstem pos="799" width="73" />
+      <vstem pos="82" width="130" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="6" width="-21" />
+      <hstem pos="643" width="244" />
+      <hstem pos="799" width="73" />
+      <vstem pos="97" width="115" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

@@ -4,38 +4,58 @@
   <unicode hex="0901"/>
   <outline>
     <contour>
-      <point x="-123" y="759" type="curve" smooth="yes"/>
-      <point x="-80" y="759"/>
-      <point x="-31" y="840"/>
-      <point x="-31" y="893" type="curve"/>
+      <point x="-123" y="759" type="qcurve" name="hr01"/>
+      <point x="-107" y="759"/>
+      <point x="-74" y="786"/>
+      <point x="-48" y="826"/>
+      <point x="-31" y="873"/>
+      <point x="-31" y="893" type="qcurve"/>
       <point x="47" y="868" type="line"/>
-      <point x="38" y="804"/>
-      <point x="-16" y="722"/>
-      <point x="-123" y="718" type="curve"/>
+      <point x="44" y="844"/>
+      <point x="20" y="792"/>
+      <point x="-22" y="749"/>
+      <point x="-83" y="719"/>
+      <point x="-123" y="718" type="qcurve"/>
       <point x="-131" y="718" type="line"/>
-      <point x="-227" y="718"/>
-      <point x="-286" y="773"/>
-      <point x="-305" y="864" type="curve"/>
+      <point x="-203" y="718"/>
+      <point x="-291" y="795"/>
+      <point x="-305" y="864" type="qcurve"/>
       <point x="-228" y="893" type="line"/>
-      <point x="-220" y="815"/>
-      <point x="-168" y="759"/>
+      <point x="-225" y="864"/>
+      <point x="-204" y="815"/>
+      <point x="-175" y="779"/>
+      <point x="-140" y="759"/>
     </contour>
     <contour>
-      <point x="-187" y="881" type="curve" smooth="yes"/>
-      <point x="-187" y="909"/>
-      <point x="-161" y="934"/>
-      <point x="-127" y="934" type="curve" smooth="yes"/>
-      <point x="-96" y="934"/>
-      <point x="-69" y="909"/>
-      <point x="-69" y="881" type="curve" smooth="yes"/>
-      <point x="-69" y="851"/>
-      <point x="-96" y="827"/>
-      <point x="-127" y="827" type="curve" smooth="yes"/>
-      <point x="-161" y="827"/>
-      <point x="-187" y="851"/>
+      <point x="-187" y="881" type="qcurve"/>
+      <point x="-187" y="902"/>
+      <point x="-153" y="934"/>
+      <point x="-127" y="934" type="qcurve"/>
+      <point x="-104" y="934"/>
+      <point x="-69" y="902"/>
+      <point x="-69" y="881" type="qcurve"/>
+      <point x="-69" y="858"/>
+      <point x="-104" y="827"/>
+      <point x="-127" y="827" type="qcurve"/>
+      <point x="-153" y="827"/>
+      <point x="-187" y="858"/>
     </contour>
     <contour>
-      <point x="-128" y="665" type="move" name="_DVAnchor3"/>
+      <point x="-132" y="0" type="move" name="_mark0"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="718" width="41" />
+      <hstem pos="827" width="107" />
+      <vstem pos="-69" width="38" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

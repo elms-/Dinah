@@ -4,10 +4,25 @@
   <unicode hex="0952"/>
   <outline>
     <contour>
-      <point x="-638" y="-75" type="line"/>
+      <point x="-638" y="-75" type="line" name="hr00"/>
       <point x="-118" y="-75" type="line"/>
       <point x="-96" y="-144" type="line"/>
       <point x="-609" y="-144" type="line"/>
     </contour>
+    <contour>
+      <point x="-358" y="0" type="move" name="_mark0"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-144" width="69" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

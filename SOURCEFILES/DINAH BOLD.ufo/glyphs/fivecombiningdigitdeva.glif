@@ -4,56 +4,71 @@
   <unicode hex="A8E5"/>
   <outline>
     <contour>
-      <point x="-172" y="763" type="curve" smooth="yes"/>
-      <point x="-203" y="763"/>
-      <point x="-225" y="800"/>
-      <point x="-225" y="839" type="curve" smooth="yes"/>
-      <point x="-225" y="866"/>
-      <point x="-207" y="901"/>
-      <point x="-177" y="920" type="curve"/>
+      <point x="-172" y="763" type="qcurve"/>
+      <point x="-195" y="763"/>
+      <point x="-225" y="810"/>
+      <point x="-225" y="839" type="qcurve"/>
+      <point x="-225" y="859"/>
+      <point x="-200" y="906"/>
+      <point x="-177" y="920" type="qcurve"/>
       <point x="-144" y="894" type="line"/>
-      <point x="-160" y="884"/>
-      <point x="-164" y="850"/>
-      <point x="-164" y="823" type="curve" smooth="yes"/>
-      <point x="-164" y="803"/>
+      <point x="-156" y="886"/>
+      <point x="-164" y="843"/>
+      <point x="-164" y="823" type="qcurve"/>
+      <point x="-164" y="808"/>
       <point x="-163" y="786"/>
-      <point x="-162" y="786" type="curve" smooth="yes"/>
-      <point x="-154" y="786"/>
-      <point x="-147" y="793"/>
-      <point x="-141" y="803" type="curve"/>
-      <point x="-154" y="817"/>
-      <point x="-160" y="824"/>
-      <point x="-160" y="828" type="curve" smooth="yes"/>
-      <point x="-160" y="843"/>
-      <point x="-127" y="846"/>
-      <point x="-115" y="846" type="curve" smooth="yes"/>
-      <point x="-99" y="846"/>
-      <point x="-77" y="840"/>
-      <point x="-64" y="830" type="curve"/>
-      <point x="-66" y="821"/>
-      <point x="-80" y="810"/>
-      <point x="-87" y="803" type="curve"/>
-      <point x="-64" y="778"/>
-      <point x="-54" y="756"/>
-      <point x="-54" y="742" type="curve" smooth="yes"/>
-      <point x="-54" y="704"/>
-      <point x="-99" y="680"/>
-      <point x="-138" y="680" type="curve" smooth="yes"/>
-      <point x="-147" y="680"/>
-      <point x="-158" y="682"/>
-      <point x="-170" y="686" type="curve"/>
+      <point x="-162" y="786" type="qcurve"/>
+      <point x="-151" y="786"/>
+      <point x="-141" y="803" type="qcurve"/>
+      <point x="-160" y="823"/>
+      <point x="-160" y="828" type="qcurve"/>
+      <point x="-160" y="834"/>
+      <point x="-149" y="841"/>
+      <point x="-135" y="845"/>
+      <point x="-120" y="846"/>
+      <point x="-115" y="846" type="qcurve"/>
+      <point x="-103" y="846"/>
+      <point x="-74" y="838"/>
+      <point x="-64" y="830" type="qcurve"/>
+      <point x="-66" y="823"/>
+      <point x="-82" y="808"/>
+      <point x="-87" y="803" type="qcurve"/>
+      <point x="-70" y="784"/>
+      <point x="-54" y="753"/>
+      <point x="-54" y="742" type="qcurve" name="hr01"/>
+      <point x="-54" y="728"/>
+      <point x="-69" y="705"/>
+      <point x="-93" y="689"/>
+      <point x="-123" y="680"/>
+      <point x="-138" y="680" type="qcurve"/>
+      <point x="-152" y="680"/>
+      <point x="-170" y="686" type="qcurve"/>
       <point x="-170" y="712" type="line"/>
-      <point x="-152" y="709"/>
+      <point x="-156" y="710"/>
       <point x="-146" y="709"/>
-      <point x="-144" y="709" type="curve" smooth="yes"/>
-      <point x="-127" y="709"/>
-      <point x="-112" y="721"/>
-      <point x="-112" y="745" type="curve" smooth="yes"/>
-      <point x="-112" y="756"/>
-      <point x="-114" y="765"/>
-      <point x="-119" y="776" type="curve"/>
-      <point x="-136" y="767"/>
-      <point x="-156" y="763"/>
+      <point x="-144" y="709" type="qcurve"/>
+      <point x="-131" y="709"/>
+      <point x="-112" y="727"/>
+      <point x="-112" y="745" type="qcurve"/>
+      <point x="-112" y="761"/>
+      <point x="-119" y="776" type="qcurve"/>
+      <point x="-132" y="769"/>
+      <point x="-160" y="763"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="680" width="166" />
+      <hstem pos="920" width="-20" />
+      <vstem pos="-225" width="61" />
+      <vstem pos="-160" width="106" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

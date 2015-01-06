@@ -5,19 +5,46 @@
   <outline>
     <contour>
       <point x="18" y="235" type="line"/>
-      <point x="96" y="235" type="line" smooth="yes"/>
-      <point x="132" y="235"/>
-      <point x="735" y="236"/>
-      <point x="772" y="237" type="curve" smooth="yes"/>
+      <point x="96" y="235" type="line" name="hr01"/>
+      <point x="103" y="235"/>
+      <point x="165" y="235"/>
+      <point x="258" y="235"/>
+      <point x="374" y="235"/>
+      <point x="494" y="236"/>
+      <point x="609" y="236"/>
+      <point x="703" y="236"/>
+      <point x="765" y="237"/>
+      <point x="772" y="237" type="qcurve"/>
       <point x="797" y="237" type="line"/>
       <point x="768" y="190" type="line"/>
       <point x="757" y="190" type="line"/>
-      <point x="741" y="190"/>
-      <point x="734" y="193"/>
-      <point x="716" y="193" type="curve" smooth="yes"/>
-      <point x="665" y="192"/>
-      <point x="43" y="189"/>
-      <point x="6" y="185" type="curve"/>
+      <point x="745" y="190"/>
+      <point x="730" y="193"/>
+      <point x="716" y="193" type="qcurve" name="hr02"/>
+      <point x="706" y="193"/>
+      <point x="638" y="192"/>
+      <point x="539" y="192"/>
+      <point x="418" y="191"/>
+      <point x="293" y="190"/>
+      <point x="174" y="188"/>
+      <point x="77" y="187"/>
+      <point x="13" y="186"/>
+      <point x="6" y="185" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="193" width="44" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="206" width="-21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

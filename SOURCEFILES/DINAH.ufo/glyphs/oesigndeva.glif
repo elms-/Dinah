@@ -4,13 +4,27 @@
   <unicode hex="093A"/>
   <outline>
     <contour>
-      <point x="-83" y="813" type="line"/>
+      <point x="-83" y="813" type="line" name="hr00"/>
       <point x="-83" y="645" type="line"/>
       <point x="-162" y="645" type="line"/>
       <point x="-162" y="831" type="line"/>
     </contour>
     <contour>
-      <point x="-114" y="645" type="move" name="_DVAnchor3"/>
+      <point x="-20" y="0" type="move" name="_mark0"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="666" width="-21" />
+      <hstem pos="831" width="-20" />
+      <vstem pos="-162" width="79" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>

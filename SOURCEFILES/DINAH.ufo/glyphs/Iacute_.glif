@@ -4,37 +4,58 @@
   <unicode hex="00CD"/>
   <outline>
     <contour>
-      <point x="61" y="0" type="line"/>
-      <point x="66" y="35"/>
-      <point x="71" y="412"/>
-      <point x="71" y="462" type="curve" smooth="yes"/>
-      <point x="71" y="503"/>
-      <point x="71" y="549"/>
-      <point x="61" y="567" type="curve"/>
+      <point x="61" y="0" type="line" name="hr00"/>
+      <point x="62" y="9"/>
+      <point x="65" y="77"/>
+      <point x="67" y="171"/>
+      <point x="69" y="279"/>
+      <point x="70" y="376"/>
+      <point x="71" y="449"/>
+      <point x="71" y="462" type="qcurve"/>
+      <point x="71" y="493"/>
+      <point x="69" y="553"/>
+      <point x="61" y="567" type="qcurve"/>
       <point x="123" y="649" type="line"/>
-      <point x="153" y="649"/>
-      <point x="157" y="526"/>
-      <point x="157" y="374" type="curve" smooth="yes"/>
-      <point x="157" y="143" type="line" smooth="yes"/>
-      <point x="157" y="94"/>
-      <point x="157" y="43"/>
-      <point x="158" y="2" type="curve"/>
+      <point x="134" y="649"/>
+      <point x="148" y="606"/>
+      <point x="155" y="531"/>
+      <point x="157" y="431"/>
+      <point x="157" y="374" type="qcurve"/>
+      <point x="157" y="143" type="line"/>
+      <point x="157" y="106"/>
+      <point x="157" y="33"/>
+      <point x="158" y="2" type="qcurve"/>
     </contour>
     <contour>
       <point x="181" y="768" type="line"/>
-      <point x="95" y="700"/>
-      <point x="70" y="674"/>
-      <point x="58" y="674" type="curve" smooth="yes"/>
-      <point x="55" y="674"/>
-      <point x="52" y="676"/>
-      <point x="50" y="679" type="curve"/>
+      <point x="149" y="742"/>
+      <point x="106" y="707"/>
+      <point x="78" y="684"/>
+      <point x="62" y="674"/>
+      <point x="58" y="674" type="qcurve"/>
+      <point x="53" y="674"/>
+      <point x="50" y="679" type="qcurve"/>
       <point x="53" y="743" type="line"/>
-      <point x="65" y="745"/>
-      <point x="85" y="760"/>
-      <point x="103" y="774" type="curve" smooth="yes"/>
-      <point x="126" y="792"/>
-      <point x="135" y="800"/>
-      <point x="148" y="814" type="curve"/>
+      <point x="62" y="745"/>
+      <point x="89" y="763"/>
+      <point x="103" y="774" type="qcurve"/>
+      <point x="120" y="788"/>
+      <point x="138" y="803"/>
+      <point x="148" y="814" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="814" width="-20" />
+      <vstem pos="71" width="86" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
 </glyph>
